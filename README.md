@@ -20,8 +20,9 @@ This project scrapes property data from Amicus Properties website, focusing on 1
 - [ ] Add email notifications for new listings
   
 ## SRS
-https://docs.google.com/document/d/1P_lsExu2DCcdzXVe-p1d0KUV1bhqFS2ONDamPqfjyyM/edit?tab=t.0
-  
+
+  [Team 13 - Template Software Requirements Specification.pdf](https://github.com/user-attachments/files/25021785/Team.13.-.Template.Software.Requirements.Specification.pdf)
+
 ### Prerequisites
 * [Docker](https://www.docker.com/)
 * [Docker Compose](https://docs.docker.com/compose/)
